@@ -1,0 +1,18 @@
+body
+{
+	background: linear-gradient(rgb(1, 255, 217) 0%, rgb(255, 0, 242) 100%);
+}
+
+	.login_div1 , .login_div2
+	{
+		background: linear-gradient(red 0%,blue 100%);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+	#button{
+background: springgreen;
+	}
+
+
